@@ -33,6 +33,6 @@ SO THAT I can quickly create a professional README for a new project
 ___
 ## Walkthrough Video
 
-Screen Recording 2021-04-28 at 19.34.36.mov
+https://user-images.githubusercontent.com/14179472/116387045-bd858080-a85d-11eb-833d-95f017bf9232.mov
 
  
